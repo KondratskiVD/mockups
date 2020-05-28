@@ -20,5 +20,209 @@
       "amount": 210,
       "country": "Russia"
     }
-  ]
+  ],
+  		"releases": [
+		  {
+			"id": 74,
+			"identifier": "c5a9aefd7c9bf9517b7d",
+			"name": "TITLE BILLING",
+			"artist": {
+				"identifier": null
+			},
+			"additional_main_artists_label": "",
+			"artists_title": "ARTIST BILLING",
+			"asset": {
+				"id": 1106,
+				"single_file": {
+					"_single_file": {
+						"url": null
+					}
+				},
+				"name": "Jolene__master_130916_ (7).wav",
+				"status": "Final",
+				"version": "WAV",
+				"updated_at": "2020-05-20",
+				"waveform_prefix": "2020_05_20_19",
+				"isrc": null,
+				"file": [{
+					"_file0": {
+						"url": "https:\/\/assets.bettyblocks.com\/534c6056977d463c97a7322b29d1f881_d29617fe733a45a3852a5cdb78a999a6\/1106\/Q4uJPbIe3VjJ0XBXgCnLmA\/Jolene__master_130916___7_.wav"
+					}
+				}],
+				"upload_type": "Full Track",
+				"external_file_url": null
+			},
+			"release_date": "2020-02-24",
+			"created_at": "2018-08-07T09:45:16.000+02:00",
+			"isrc": "",
+			"artist_profile_status": "Todo",
+			"final_master_status": "Todo",
+			"legal_status": "ToDo",
+			"artwork_status": "Unknown",
+			"status": "Scheduled",
+			"soundcloud_link": null,
+			"title_billing": null,
+			"artwork": {
+				"size_1": "",
+				"size_2": "",
+				"size_3": "",
+				"size_4": ""
+			},
+			"label": {
+				"id": 18,
+				"name": "ZERODEEP"
+			}
+		}, {
+			"id": 432,
+			"identifier": "15102ee457da494b38da",
+			"name": "Yaroslav demo track",
+			"artist": {
+				"identifier": null
+			},
+			"additional_main_artists_label": "",
+			"artists_title": "Yaroslav demo artist",
+			"asset": {
+				"id": 1208,
+				"single_file": {
+					"_single_file": {
+						"url": "https:\/\/assets.bettyblocks.com\/534c6056977d463c97a7322b29d1f881_0ab9533a725645e89a531aa6401fd384\/1208\/MOTi_-_Like_This_Like_That__Radio_Edit___MASTER_.wav"
+					}
+				},
+				"name": "0268.wav",
+				"status": "Final",
+				"version": "Radio edit",
+				"updated_at": "2020-05-20",
+				"waveform_prefix": "2020_05_20_19",
+				"isrc": "NLZ8V1800008",
+				"file": [{
+					"_file0": {
+						"url": null
+					}
+				}],
+				"upload_type": "Full Track",
+				"external_file_url": null
+			},
+			"release_date": "2020-02-07",
+			"created_at": "2019-08-20T21:40:55.000+02:00",
+			"isrc": "NLZ8V1800008",
+			"artist_profile_status": "Todo",
+			"final_master_status": "Todo",
+			"legal_status": "ToDo",
+			"artwork_status": "Unknown",
+			"status": "Scheduled",
+			"soundcloud_link": null,
+			"title_billing": null,
+			"artwork": {
+				"size_1": "",
+				"size_2": "",
+				"size_3": "",
+				"size_4": ""
+			},
+			"label": {
+				"id": 18,
+				"name": "ZERODEEP"
+			}
+		}, {
+			"id": 285,
+			"identifier": "18f7198be3614f9b5038",
+			"name": "temp Title",
+			"artist": {
+				"identifier": "266d0e306de5ca6abf56"
+			},
+			"additional_main_artists_label": "",
+			"artists_title": " testtt15556",
+			"asset": {
+				"id": null,
+				"single_file": null,
+				"name": null,
+				"status": null,
+				"version": null,
+				"updated_at": null,
+				"waveform_prefix": null,
+				"isrc": null,
+				"file": null,
+				"upload_type": null,
+				"external_file_url": null
+			},
+			"release_date": "2020-01-31",
+			"created_at": "2018-11-30T11:50:58.000+01:00",
+			"isrc": "",
+			"artist_profile_status": "Todo",
+			"final_master_status": "Requested",
+			"legal_status": "Lost",
+			"artwork_status": "At Designer",
+			"status": "Pre-Release",
+			"soundcloud_link": null,
+			"title_billing": "temp Title116",
+			"artwork": {
+				"size_1": "",
+				"size_2": "",
+				"size_3": "",
+				"size_4": ""
+			},
+			"label": {
+				"id": 18,
+				"name": "ZERODEEP"
+			}
+		}, {
+			"id": 375,
+			"identifier": "b8ccf72642658089ac1c",
+			"name": "30-9test",
+			"artist": {
+				"identifier": null
+			},
+			"additional_main_artists_label": "",
+			"artists_title": " dit is de artist",
+			"asset": {
+				"id": 1812,
+				"single_file": {
+					"_single_file": {
+						"url": null
+					}
+				},
+				"name": "30-9audio",
+				"status": "Approved",
+				"version": null,
+				"updated_at": "2020-05-20",
+				"waveform_prefix": "2020_05_20_19",
+				"isrc": "NLZ8V1800010",
+				"file": [],
+				"upload_type": "Unknown",
+				"external_file_url": null
+			},
+			"release_date": "2019-07-04",
+			"created_at": "2019-06-30T11:35:14.000+02:00",
+			"isrc": "NLZ8V1800010",
+			"artist_profile_status": "Todo",
+			"final_master_status": "In Production",
+			"legal_status": "ToDo",
+			"artwork_status": "Unknown",
+			"status": "Concept",
+			"soundcloud_link": null,
+			"title_billing": "title update",
+			"artwork": {
+				"size_1": "",
+				"size_2": "",
+				"size_3": "",
+				"size_4": ""
+			},
+			"label": {
+				"id": 18,
+				"name": "ZERODEEP"
+			}
+		}],
+		"labels": [{
+			"id": 18,
+			"name": "ZERODEEP",
+			"path": "zerodeep",
+			"sign_notifications": "Ask",
+			"reject_notifications": "Ask"
+		}, {
+			"id": 26,
+			"name": "ZERO COOL",
+			"path": "zero-cool",
+			"sign_notifications": "Ask",
+			"reject_notifications": "Ask"
+		}
+	]
 }
